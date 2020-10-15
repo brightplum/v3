@@ -22,7 +22,7 @@ email      : fredric@brightplum.com #this is also the email contact forms will g
 description: "Bright Plum, Inc. is a boutique web agency specializing in Drupal and Wordpress projects."
 author     : Fredric Mitchell
 logo:     #optional, defaults to site title
-  path: https://res.cloudinary.com/brightplum/image/upload/s--VlNabB0K--/c_scale,h_52/v1602789644/brightplum/brightplum_logo.png
+  path: https://res.cloudinary.com/brightplum/image/upload/v1602789644/brightplum/brightplum_logo.png
   # height: 60 #height in px, defaults to 52px
 
 analytics:
