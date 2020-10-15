@@ -1,27 +1,27 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to Bright Plum, Inc.!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Customer service is our top priority"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Web Development"
+        desc: "Our tools of choice are Drupal and Wordpress."
+        icon: fas fa-drupal 
+      - title: "Consulting & Strategy"
+        desc: "Need a RFP reviewed? Want to talk through best practices? We have over 15 years of working with projects and teams of all sizes."
+        icon: fas fa-trophy       
+      - title: "UX"
+        desc: "We can help you interview, measure, and improve your relationship with your customers."
+        icon: fab fa-rocket
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "A few of the projects we've worked on."
     section: portfolio
     
 
@@ -31,7 +31,7 @@ timeline:
     section: timeline
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
+        year: "2004"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt: 
