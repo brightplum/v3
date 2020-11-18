@@ -87,7 +87,7 @@ team:
     people:
       - name: "Fredric Mitchell"
         role: "Principal"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/fredric_headshot_2013_square_large.jpg
         social:
           - url: https://www.drupal.org/u/fmitchell
             icon: fab fa-drupal
