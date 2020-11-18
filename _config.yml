@@ -12,12 +12,12 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: brightplum/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+url    : "https://brightplum.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : Bright Plum, Inc.
+title      : Bright Plum, Inc. | A boutique Drupal Agency
 email      : fredric@brightplum.com #this is also the email contact forms will go to
 description: "Bright Plum, Inc. is a boutique web agency specializing in Drupal and Wordpress projects."
 author     : Fredric Mitchell
