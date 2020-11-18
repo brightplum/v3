@@ -11,13 +11,13 @@ services:
     list:
       - title: "Web Development"
         desc: "Our tools of choice are Drupal and Wordpress."
-        icon: fas fa-drupal 
+        icon: fab fa-drupal 
       - title: "Consulting & Strategy"
         desc: "Need a RFP reviewed? Want to talk through best practices? We have over 15 years of working with projects and teams of all sizes."
         icon: fas fa-trophy       
       - title: "UX"
         desc: "We can help you interview, measure, and improve your relationship with your customers."
-        icon: fab fa-rocket
+        icon: fas fa-rocket
 
 portfolio:
     title: "Portfolio"
@@ -85,28 +85,24 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Fredric Mitchell"
+        role: "Principal"
         image: assets/img/team/1.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+          - url: https://www.drupal.org/u/fmitchell
+            icon: fab fa-drupal
+          - url: https://www.drupal.org/u/fmitchell
+            icon: fab fa-drupal
+          - url: https://github.com/fmitchell
+            icon: fab fa-github
+      - name: "Caleb Crawley"
+        role: "Developer"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Gustavo Ramirez Fallas"
+        role: "Developer"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
@@ -118,22 +114,16 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email us at help@brightplum.com or call 708.365.9711"
     section: contact
     
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/71376175
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/brightplum
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
