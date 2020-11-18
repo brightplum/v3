@@ -92,7 +92,7 @@ team:
           - url: https://www.drupal.org/u/fmitchell
             icon: fab fa-drupal
           - url: https://linkedin.com/in/fredricmitchell
-            icon: fab fa-linked-in
+            icon: fab fa-linkedin-in
           - url: https://github.com/fmitchell
             icon: fab fa-github
       - name: "Caleb Crawley"
