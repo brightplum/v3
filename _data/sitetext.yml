@@ -1,7 +1,7 @@
 header:
-    title: Welcome to Bright Plum, Inc.!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome
+    text: How Can We Help?
+    button: Services
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
@@ -18,71 +18,11 @@ services:
       - title: "UX"
         desc: "We can help you interview, measure, and improve your relationship with your customers."
         icon: fas fa-rocket
-
-portfolio:
-    title: "Portfolio"
-    text: "A few of the projects we've worked on."
-    section: portfolio
-    
-
-timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2004"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
-        align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-        align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Be sure to connect with us!"
+    subtext: Our goal is to help you bring your project over the finish line.
     section: team
     people:
       - name: "Fredric Mitchell"
@@ -97,19 +37,21 @@ team:
             icon: fab fa-github
       - name: "Caleb Crawley"
         role: "Developer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/caleb.jpg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/caleb-c-b12b4886/
             icon: fab fa-linkedin-in
+          - url: https://github.com/designking06
+            icon: fab fa-github
       - name: "Gustavo Ramirez Fallas"
         role: "Developer"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/gustavo.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.drupal.org/u/gustavorf90
+            icon: fab fa-drupal
+          - url: https://github.com/gustavorf
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/gustavo-ramirez-fallas/
             icon: fab fa-linkedin-in
           
 contact:
@@ -120,7 +62,7 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://www.linkedin.com/company/71376175
+      - url: https://www.linkedin.com/company/bright-plum-inc/
         icon: "fab fa-linkedin-in"
       - url: https://github.com/brightplum
         icon: "fab fa-github"
