@@ -1,21 +1,21 @@
 header:
     title: We Can Help You
     text: Be Intentional
-    button: Find Out
+    button: Find Out How
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
-    text: "We are experts in building web platforms."
+    text: "We are experts in building Drupal web platforms"
     section: services
     list:
       - title: "Web Platform Development"
-        desc: "Combine a great website for your customers with a cutting-edge platform to manage your business."
+        desc: "Combine a great website for your customers with a cutting-edge Drupal platform to manage your business."
         icon: fab fa-drupal 
-      - title: "Consulting & Strategy"
+      - title: "Project Consulting & Strategy"
         desc: "Need a RFP reviewed? Want to talk through best practices? We have over 15 years of working with projects and teams of all sizes."
         icon: fas fa-paper-plane      
-      - title: "Team Augmentation"
+      - title: "Developer Team Augmentation"
         desc: "We are a small group of freelancers who can embed with your team focusing on backend and frontend Drupal development."
         icon: fas fa-users
 
@@ -35,12 +35,18 @@ clients:
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg    
+        logo: assets/img/clients/creative-market.jpg
+        
+portfolio:
+    title: "Projects"
+    text: "A few of the projects we've worked on."
+    section: portfolio
+    closebutton: "Close Project"
 
 team:
     title: "The Team"
     text: "Over 15 years experience"
-    subtext: All Acquia Certified
+    subtext: All of our team members are Acquia Certified.
     section: team
     people:
       - name: "Fredric Mitchell"
