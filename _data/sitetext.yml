@@ -22,7 +22,7 @@ services:
 clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "maginative"
         url: https://www.maginative.com/
@@ -90,6 +90,14 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/gustavo-ramirez-fallas/
             icon: fab fa-linkedin-in
+      - name: "Kennedy Griffin"
+        role: "Intern"
+        image: assets/img/team/kennedy.png
+        social:
+          - url: https://github.com/k3nn3dyG
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/kennedy-griffin-43b1a6133/
+            icon: fab fa-linkedin-in 
           
 contact:
     title: "Contact Us"
