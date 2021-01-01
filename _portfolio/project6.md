@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: iRest
+subtitle: Integrative Restoration
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: iRest
+  subtitle: Integrative Restoration
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+We partnered with Eternalistic to create a Drupal 8 web platform for iRest that not only serves as a front-facing website, but a full e-commerce suite for thier customers.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: December 2020
+- Client: iRest
+- Category: Drupal
 
