@@ -16,7 +16,7 @@ services:
         desc: "Need a RFP reviewed? Want to talk through best practices? We have over 15 years of working with projects and teams of all sizes."
         icon: fas fa-paper-plane      
       - title: "Developer Team Augmentation"
-        desc: "We are a small group of freelancers who can embed with your team focusing on backend and frontend Drupal development."
+        desc: "As a group of freelancers, we can embed with your team and enhance your backend and frontend Drupal capabilities."
         icon: fas fa-users
 
 clients:
@@ -24,18 +24,18 @@ clients:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "Advomatic"
+        url: https://www.advomatic.com
+        logo: https://www.advomatic.com/wp-content/themes/advomatic-jointswp/library/images/advo-logo.svg
+      - title: "Spry Digital"
+        url: https://sprydigital.com/
+        logo: https://d33wubrfki0l68.cloudfront.net/d7e485216be8573a2f271a30ec80fe5a8ff50b14/13132/_nuxt/img/spry-logo-horizontal.27dfa61.svg
+      - title: "Thinkbean"
+        url: https://www.thinkbean.com/
+        logo: https://www.thinkbean.com/themes/custom/thinkbean/thinkbean-logo.svg
+      - title: "ThinkShout"
+        url: https://thinkshout.com/
+        logo: https://d33wubrfki0l68.cloudfront.net/4579e4160051dc03ac3dcc077aca939e7643d1b1/9e321/assets/images/ts_redesign/thinkshout-workmark.svg
         
 portfolio:
     title: "Projects"
