@@ -18,6 +18,7 @@ services:
       - title: "Team Augmentation"
         desc: "We are a small group of freelancers who can embed with your team focusing on backend and frontend Drupal development."
         icon: fas fa-users
+
 clients:
     section: clients
     max-height: 100px
@@ -35,6 +36,7 @@ clients:
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg    
+
 team:
     title: "The Team"
     text: "Over 15 years experience"
