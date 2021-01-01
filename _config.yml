@@ -25,6 +25,8 @@ logo:     #optional, defaults to site title
   path: https://res.cloudinary.com/brightplum/image/upload/v1602789644/brightplum/brightplum_logo.png
   # height: 60 #height in px, defaults to 52px
 
+formspree_form_path: https://formspree.io/f/xdopeyol
+
 analytics:
   google: #Google Analytics tracking code here
 
