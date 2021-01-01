@@ -24,6 +24,9 @@ clients:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
+      - title: "maginative"
+        url: https://www.maginative.com/
+        logo: assets/img/clients/maginative.jpg
       - title: "Advomatic"
         url: https://www.advomatic.com
         logo: https://www.advomatic.com/wp-content/themes/advomatic-jointswp/library/images/advo-logo.svg
