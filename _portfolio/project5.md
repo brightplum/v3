@@ -1,18 +1,18 @@
 ---
-title: AMA
-subtitle: The American Medical Association
+title: FoodSoGood
+subtitle: foodsogoodmall.com
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: AMA
-  subtitle: The American Medical Association
+  title: FoodSoGood
+  subtitle: foodsogoodmall.com
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-We partnered with Mergeworld marketing agency to create a Drupal 9 microsite for the American Medical Association MAP BP service.
+We helped a New York family food connoisseur launch a new site on Wordpress with thousands of delicious recipes.
 
 {:.list-inline}
 - Date: December 2020
-- Client: The American Medical Association
-- Category: Drupal
+- Client: foodsogoodmall.com
+- Category: Wordpress
 
