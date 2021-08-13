@@ -1,9 +1,10 @@
-nav:
-  - title: "Services"
-    section: services
+en: &DEFAULT_EN
+  nav:
+    - title: "Services"
+      section: services
 
-  - title: "Team"
-    section: team
+    - title: "Team"
+      section: team
 
-  - title: "Contact"
-    section: contact
+    - title: "Contact"
+      section: contact
