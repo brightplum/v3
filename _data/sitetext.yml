@@ -57,7 +57,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Fredric Mitchell"
-        role: "Principal / Architect"
+        role: "Architect"
         image: assets/img/team/fredric_headshot_2013_square_large.jpg
         social:
           - url: https://www.drupal.org/u/fmitchell
@@ -66,8 +66,18 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/fmitchell
             icon: fab fa-github
+      - name: "Jeremy Caldwell"
+        role: "Architect"
+        image: https://res.cloudinary.com/brightplum/image/upload/v1628861087/brightplum/jeremy-caldwell.jpg
+        social:
+          - url: https://www.drupal.org/u/jeremycaldwell
+            icon: fab fa-drupal
+          - url: https://www.linkedin.com/in/jeremymcaldwell/
+            icon: fab fa-linkedin-in
+          - url: https://github.com/jeremycaldwell
+            icon: fab fa-github
       - name: "Caleb Crawley"
-        role: "Backend Developer"
+        role: "Developer"
         image: assets/img/team/caleb.jpg
         social:
           - url: https://www.linkedin.com/in/caleb-c-b12b4886/
@@ -75,7 +85,7 @@ en: &DEFAULT_EN
           - url: https://github.com/designking06
             icon: fab fa-github
       - name: "Gustavo Ramirez Fallas"
-        role: "Backend Developer"
+        role: "Developer"
         image: assets/img/team/gustavo.jpg
         social:
           - url: https://www.drupal.org/u/gustavorf90
