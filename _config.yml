@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://brightplum.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : Drupal Web Development Experts | Bright Plum, Inc. | Chicago, Dallas, Greensboro
+title      : Drupal Web Development Experts | Bright Plum, Inc. | Chicago, Atlanta, Greensboro
 email      : fredric@brightplum.com #this is also the email contact forms will go to
-description: "Bright Plum, Inc. is a micro-agency specializing in web platform development using Drupal."
+description: "Bright Plum, Inc. is a boutique agency specializing in web platform development using Drupal."
 author     : Fredric Mitchell
 logo:     #optional, defaults to site title
   path: https://res.cloudinary.com/brightplum/image/upload/v1627508968/brightplum/brightplum-logo-2021.png
