@@ -100,6 +100,8 @@ en: &DEFAULT_EN
         role: "Developer"
         image: https://res.cloudinary.com/brightplum/image/upload/v1628859892/brightplum/tyra-mccoy.jpg
         social:
+          - url: https://www.drupal.org/u/tamccoy
+            icon: fab fa-drupal
           - url: https://github.com/tyramccoy
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tyramccoy
