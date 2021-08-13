@@ -80,6 +80,8 @@ en: &DEFAULT_EN
         role: "Developer"
         image: assets/img/team/caleb.jpg
         social:
+          - url: https://www.drupal.org/u/crawleyhost
+            icon: fab fa-drupal
           - url: https://www.linkedin.com/in/caleb-c-b12b4886/
             icon: fab fa-linkedin-in
           - url: https://github.com/designking06
