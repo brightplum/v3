@@ -40,6 +40,9 @@ en: &DEFAULT_EN
       - title: "ThinkShout"
         url: https://thinkshout.com/
         logo: https://d33wubrfki0l68.cloudfront.net/4579e4160051dc03ac3dcc077aca939e7643d1b1/9e321/assets/images/ts_redesign/thinkshout-workmark.svg
+      - title: "Merge World"
+        url: https://mergeworld.com
+        logo: https://res.cloudinary.com/brightplum/image/upload/v1628859723/brightplum/merge-logo.jpg
 
   portfolio:
     title: "Projects"
@@ -54,7 +57,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Fredric Mitchell"
-        role: "Architect"
+        role: "Principal / Architect"
         image: assets/img/team/fredric_headshot_2013_square_large.jpg
         social:
           - url: https://www.drupal.org/u/fmitchell
@@ -62,16 +65,6 @@ en: &DEFAULT_EN
           - url: https://linkedin.com/in/fredricmitchell
             icon: fab fa-linkedin-in
           - url: https://github.com/fmitchell
-            icon: fab fa-github
-      - name: "Tearyne Almendariz"
-        role: "Frontend Developer"
-        image: assets/img/team/tearyne.jpg
-        social:
-          - url: https://www.drupal.org/u/ninelivesblackcat
-            icon: fab fa-drupal
-          - url: https://www.linkedin.com/in/tearyne/
-            icon: fab fa-linkedin-in
-          - url: https://github.com/karenwithat
             icon: fab fa-github
       - name: "Caleb Crawley"
         role: "Backend Developer"
@@ -91,13 +84,13 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/gustavo-ramirez-fallas/
             icon: fab fa-linkedin-in
-      - name: "Kennedy Griffin"
-        role: "Intern"
-        image: assets/img/team/kennedy.png
+      - name: "Tyra McCoy"
+        role: "Developer"
+        image: https://res.cloudinary.com/brightplum/image/upload/v1628859892/brightplum/tyra-mccoy.jpg
         social:
-          - url: https://github.com/k3nn3dyG
+          - url: https://github.com/tyramccoy
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/kennedy-griffin-43b1a6133/
+          - url: https://www.linkedin.com/in/tyramccoy
             icon: fab fa-linkedin-in 
 
   contact:
