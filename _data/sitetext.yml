@@ -1,117 +1,125 @@
 en: &DEFAULT_EN
-    header:
-        title: We Can Help You
-        text: Be Intentional
-        button: Find Out How
-        buttonlink: "#services" # "#{section}" or "URL/page link"
+  header:
+    title: We Can Help You
+    text: Be Intentional
+    button: Find Out How
+    buttonlink: "#services" # "#{section}" or "URL/page link"
 
-    services:
-        title: "Services"
-        text: "We are experts in building Drupal web platforms"
-        section: services
-        list:
-          - title: "Web Platform Development"
-            desc: "Combine a great website for your customers with a cutting-edge Drupal platform to manage your business."
-            icon: fab fa-drupal 
-          - title: "Project Consulting & Strategy"
-            desc: "Need a RFP reviewed? Want to talk through best practices? We have over 15 years of working with projects and teams of all sizes."
-            icon: fas fa-paper-plane      
-          - title: "Developer Team Augmentation"
-            desc: "As a group of freelancers, we can embed with your team and enhance your backend and frontend Drupal capabilities."
-            icon: fas fa-users
+  services:
+    title: "Services"
+    text: "We are experts in building Drupal web platforms"
+    section: services
+    list:
+      - title: "Web Platform Development"
+        desc: "Combine a great website for your customers with a cutting-edge Drupal platform to manage your business."
+        icon: fab fa-drupal 
+      - title: "Project Consulting & Strategy"
+        desc: "Need a RFP reviewed? Want to talk through best practices? We have over 15 years of working with projects and teams of all sizes."
+        icon: fas fa-paper-plane      
+      - title: "Developer Team Augmentation"
+        desc: "As a group of freelancers, we can embed with your team and enhance your backend and frontend Drupal capabilities."
+        icon: fas fa-users
 
-    clients:
-        section: clients
-        max-height: 100px
-        horizontal-scrolling: "yes" #"yes/no"
-        list:
-          - title: "maginative"
-            url: https://www.maginative.com/
-            logo: assets/img/clients/maginative.jpg
-          - title: "Advomatic"
-            url: https://www.advomatic.com
-            logo: https://www.advomatic.com/wp-content/themes/advomatic-jointswp/library/images/advo-logo.svg
-          - title: "Spry Digital"
-            url: https://sprydigital.com/
-            logo: https://d33wubrfki0l68.cloudfront.net/d7e485216be8573a2f271a30ec80fe5a8ff50b14/13132/_nuxt/img/spry-logo-horizontal.27dfa61.svg
-          - title: "Thinkbean"
-            url: https://www.thinkbean.com/
-            logo: https://www.thinkbean.com/themes/custom/thinkbean/thinkbean-logo.svg
-          - title: "ThinkShout"
-            url: https://thinkshout.com/
-            logo: https://d33wubrfki0l68.cloudfront.net/4579e4160051dc03ac3dcc077aca939e7643d1b1/9e321/assets/images/ts_redesign/thinkshout-workmark.svg
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "yes" #"yes/no"
+    list:
+      - title: "maginative"
+        url: https://www.maginative.com/
+        logo: assets/img/clients/maginative.jpg
+      - title: "Advomatic"
+        url: https://www.advomatic.com
+        logo: https://www.advomatic.com/wp-content/themes/advomatic-jointswp/library/images/advo-logo.svg
+      - title: "Spry Digital"
+        url: https://sprydigital.com/
+        logo: https://d33wubrfki0l68.cloudfront.net/d7e485216be8573a2f271a30ec80fe5a8ff50b14/13132/_nuxt/img/spry-logo-horizontal.27dfa61.svg
+      - title: "Thinkbean"
+        url: https://www.thinkbean.com/
+        logo: https://www.thinkbean.com/themes/custom/thinkbean/thinkbean-logo.svg
+      - title: "ThinkShout"
+        url: https://thinkshout.com/
+        logo: https://d33wubrfki0l68.cloudfront.net/4579e4160051dc03ac3dcc077aca939e7643d1b1/9e321/assets/images/ts_redesign/thinkshout-workmark.svg
 
-    portfolio:
-        title: "Projects"
-        text: "A few of the projects we've worked on."
-        section: portfolio
-        closebutton: "Close Project"
+  portfolio:
+    title: "Projects"
+    text: "A few of the projects we've worked on."
+    section: portfolio
+    closebutton: "Close Project"
 
-    team:
-        title: "The Team"
-        text: "Over 15 years experience"
-        subtext: All of our team members are Acquia Certified.
-        section: team
-        people:
-          - name: "Fredric Mitchell"
-            role: "Architect"
-            image: assets/img/team/fredric_headshot_2013_square_large.jpg
-            social:
-              - url: https://www.drupal.org/u/fmitchell
-                icon: fab fa-drupal
-              - url: https://linkedin.com/in/fredricmitchell
-                icon: fab fa-linkedin-in
-              - url: https://github.com/fmitchell
-                icon: fab fa-github
-          - name: "Tearyne Almendariz"
-            role: "Frontend Developer"
-            image: assets/img/team/tearyne.jpg
-            social:
-              - url: https://www.drupal.org/u/ninelivesblackcat
-                icon: fab fa-drupal
-              - url: https://www.linkedin.com/in/tearyne/
-                icon: fab fa-linkedin-in
-              - url: https://github.com/karenwithat
-                icon: fab fa-github
-          - name: "Caleb Crawley"
-            role: "Backend Developer"
-            image: assets/img/team/caleb.jpg
-            social:
-              - url: https://www.linkedin.com/in/caleb-c-b12b4886/
-                icon: fab fa-linkedin-in
-              - url: https://github.com/designking06
-                icon: fab fa-github
-          - name: "Gustavo Ramirez Fallas"
-            role: "Backend Developer"
-            image: assets/img/team/gustavo.jpg
-            social:
-              - url: https://www.drupal.org/u/gustavorf90
-                icon: fab fa-drupal
-              - url: https://github.com/gustavorf
-                icon: fab fa-github
-              - url: https://www.linkedin.com/in/gustavo-ramirez-fallas/
-                icon: fab fa-linkedin-in
-          - name: "Kennedy Griffin"
-            role: "Intern"
-            image: assets/img/team/kennedy.png
-            social:
-              - url: https://github.com/k3nn3dyG
-                icon: fab fa-github
-              - url: https://www.linkedin.com/in/kennedy-griffin-43b1a6133/
-                icon: fab fa-linkedin-in 
-
-    contact:
-        title: "Contact Us"
-        text: "Email us at help@brightplum.com or call 708.365.9711"
-        section: contact
-
-    footer:
-        legal: "Privacy Policy"
+  team:
+    title: "The Team"
+    text: "Over 15 years experience"
+    subtext: All of our team members are Acquia Certified.
+    section: team
+    people:
+      - name: "Fredric Mitchell"
+        role: "Architect"
+        image: assets/img/team/fredric_headshot_2013_square_large.jpg
         social:
-          - url: https://www.linkedin.com/company/bright-plum-inc/
-            icon: "fab fa-linkedin-in"
-          - url: https://github.com/brightplum
-            icon: "fab fa-github"
+          - url: https://www.drupal.org/u/fmitchell
+            icon: fab fa-drupal
+          - url: https://linkedin.com/in/fredricmitchell
+            icon: fab fa-linkedin-in
+          - url: https://github.com/fmitchell
+            icon: fab fa-github
+      - name: "Tearyne Almendariz"
+        role: "Frontend Developer"
+        image: assets/img/team/tearyne.jpg
+        social:
+          - url: https://www.drupal.org/u/ninelivesblackcat
+            icon: fab fa-drupal
+          - url: https://www.linkedin.com/in/tearyne/
+            icon: fab fa-linkedin-in
+          - url: https://github.com/karenwithat
+            icon: fab fa-github
+      - name: "Caleb Crawley"
+        role: "Backend Developer"
+        image: assets/img/team/caleb.jpg
+        social:
+          - url: https://www.linkedin.com/in/caleb-c-b12b4886/
+            icon: fab fa-linkedin-in
+          - url: https://github.com/designking06
+            icon: fab fa-github
+      - name: "Gustavo Ramirez Fallas"
+        role: "Backend Developer"
+        image: assets/img/team/gustavo.jpg
+        social:
+          - url: https://www.drupal.org/u/gustavorf90
+            icon: fab fa-drupal
+          - url: https://github.com/gustavorf
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/gustavo-ramirez-fallas/
+            icon: fab fa-linkedin-in
+      - name: "Kennedy Griffin"
+        role: "Intern"
+        image: assets/img/team/kennedy.png
+        social:
+          - url: https://github.com/k3nn3dyG
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/kennedy-griffin-43b1a6133/
+            icon: fab fa-linkedin-in 
+
+  contact:
+    title: "Contact Us"
+    text: "Email us at help@brightplum.com or call 708.365.9711"
+    section: contact
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.linkedin.com/company/bright-plum-inc/
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/brightplum
+        icon: "fab fa-github"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
