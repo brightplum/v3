@@ -27,6 +27,8 @@ logo:     #optional, defaults to site title
 
 formspree_form_path: f/xdopeyol
 
+locale: "en-US"
+
 analytics:
   google: #Google Analytics tracking code here
 
