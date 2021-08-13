@@ -25,6 +25,12 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:
+      - title: "ThinkShout"
+        url: https://thinkshout.com/
+        logo: https://d33wubrfki0l68.cloudfront.net/4579e4160051dc03ac3dcc077aca939e7643d1b1/9e321/assets/images/ts_redesign/thinkshout-workmark.svg
+      - title: "Merge World"
+        url: https://mergeworld.com
+        logo: https://res.cloudinary.com/brightplum/image/upload/v1628859723/brightplum/merge-logo.jpg
       - title: "maginative"
         url: https://www.maginative.com/
         logo: assets/img/clients/maginative.jpg
@@ -37,12 +43,6 @@ en: &DEFAULT_EN
       - title: "Thinkbean"
         url: https://www.thinkbean.com/
         logo: https://www.thinkbean.com/themes/custom/thinkbean/thinkbean-logo.svg
-      - title: "ThinkShout"
-        url: https://thinkshout.com/
-        logo: https://d33wubrfki0l68.cloudfront.net/4579e4160051dc03ac3dcc077aca939e7643d1b1/9e321/assets/images/ts_redesign/thinkshout-workmark.svg
-      - title: "Merge World"
-        url: https://mergeworld.com
-        logo: https://res.cloudinary.com/brightplum/image/upload/v1628859723/brightplum/merge-logo.jpg
 
   portfolio:
     title: "Projects"
