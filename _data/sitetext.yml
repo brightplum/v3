@@ -96,15 +96,21 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/gustavo-ramirez-fallas/
             icon: fab fa-linkedin-in
-      - name: "Tyra McCoy"
+      - name: "Kayla Griffith"
         role: "Developer"
-        image: https://res.cloudinary.com/brightplum/image/upload/v1628859892/brightplum/tyra-mccoy.jpg
+        image: https://res.cloudinary.com/brightplum/image/upload/v1643308339/brightplum/kayla.jpg
         social:
-          - url: https://www.drupal.org/u/tamccoy
+          - url: https://www.drupal.org/u/kgriffcodes
             icon: fab fa-drupal
-          - url: https://github.com/tyramccoy
+          - url: hhttps://github.com/kgriffcodes
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/tyramccoy
+          - url: https://www.linkedin.com/in/kgriffcodes/
+            icon: fab fa-linkedin-in 
+      - name: "Mrwan Othman"
+        role: "Project Manager"
+        image: https://res.cloudinary.com/brightplum/image/upload/v1643308398/brightplum/mrwan.png
+        social:
+          - url: https://www.linkedin.com/in/mrwan-othman-162901196/
             icon: fab fa-linkedin-in 
 
   contact:
