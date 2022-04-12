@@ -13,11 +13,11 @@ en: &DEFAULT_EN
       - title: "Web Platform Development"
         desc: "Combine a great website for your customers with a cutting-edge Drupal platform to manage your business."
         icon: fab fa-drupal 
-      - title: "Project Consulting & Strategy"
-        desc: "Need a RFP reviewed? Want to talk through best practices? We have over 15 years of working with projects and teams of all sizes."
+      - title: "Strategic Digital Marketing"
+        desc: "Improve sales of your digital products for your business or increase donations to your non-profit."
         icon: fas fa-paper-plane      
       - title: "Developer Team Augmentation"
-        desc: "As a group of freelancers, we can embed with your team and enhance your backend and frontend Drupal capabilities."
+        desc: "Deliver projects on-time and on-budget when we embed with your team and enhance your backend and frontend Drupal capabilities."
         icon: fas fa-users
 
   clients:
