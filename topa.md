@@ -46,4 +46,4 @@ The plan and reports we provide are yours to keep and share with your team or an
 
 Let us help you grow your business by starting with a Total Online Presence Audit.
 
-<a href="https://calendly.com/brightplum/30min">Click here to schedule a call</a>.
+<a href="https://calendly.com/brightplum/30min">Click here to schedule a call</a>
