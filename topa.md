@@ -4,10 +4,10 @@ title: Total Online Presence Audit
 ---
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Total Online Presence Audit</h2>
-  <h3>Want to know for sure what’s working and what’s not?</h3>
+  <h4>Want to know for sure what’s working and what’s not?</h4>
 </div>
 
-<h4>Ever Wonder Why</h4>
+**EVER WONDER WHY**
 <ul>
   <li>Your customers don’t find you on Google</li>
   <li>The only way to generate leads is to pay for expensive advertising</li>
@@ -46,4 +46,4 @@ The plan and reports we provide are yours to keep and share with your team or an
 
 Let us help you grow your business by starting with a Total Online Presence Audit.
 
-Start <a href="https://calendly.com/brightplum/30min">here to schedule a call</a>.
+<a href="https://calendly.com/brightplum/30min">Click here to schedule a call</a>.
