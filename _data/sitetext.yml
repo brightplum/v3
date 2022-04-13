@@ -10,13 +10,13 @@ en: &DEFAULT_EN
     text: "We are experts in building Drupal web platforms"
     section: services
     list:
-      - title: "Web Platform Development"
+      - title: "Development"
         desc: "Combine a great website for your customers with a cutting-edge Drupal platform to manage your business."
         icon: fab fa-drupal 
-      - title: "Strategic Digital Marketing"
+      - title: "Marketing"
         desc: "Improve sales of your digital products for your business or increase donations to your non-profit."
         icon: fas fa-paper-plane      
-      - title: "Developer Team Augmentation"
+      - title: "Augmentation"
         desc: "Deliver projects on-time and on-budget when we embed with your team and enhance your backend and frontend Drupal capabilities."
         icon: fas fa-users
 
