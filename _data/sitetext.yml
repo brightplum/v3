@@ -6,9 +6,9 @@ en: &DEFAULT_EN
     buttonlink: "#services"
   
   about:
-    title: "What Our Clients Say"
+    title: "Our Clients"
     text: "C. Ross, American Hospital Association"
-    body: "> The team at Bright Plum has been an excellent partner with us for past few years! They took over support and enhancements of our Drupal publishing platform and has provided us with customized solutions for our organization to increase our engagement with our core audience."
+    body: "> The team at Bright Plum are excellent partners! They took over support and enhancements of our Drupal publishing platform and continue to provide us with great service and smart, customized solutions."
     section: about
 
   services:
