@@ -4,6 +4,12 @@ en: &DEFAULT_EN
     text: On your Drupal publishing platform  
     button: Start Here
     buttonlink: "#services"
+  
+  about:
+    title: "What Our Clients Say"
+    text: "C. Ross, American Hospital Association"
+    body: "The team at Bright Plum has been an excellent partner with us for past few years! They took over support and enhancements of our Drupal publishing platform and has provided us with customized solutions for our organization to increase our engagement with our core audience."
+    section: about
 
   services:
     title: "Services"
