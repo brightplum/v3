@@ -8,12 +8,12 @@ en: &DEFAULT_EN
   about:
     title: "What Our Clients Say"
     text: "C. Ross, American Hospital Association"
-    body: "The team at Bright Plum has been an excellent partner with us for past few years! They took over support and enhancements of our Drupal publishing platform and has provided us with customized solutions for our organization to increase our engagement with our core audience."
+    body: "> The team at Bright Plum has been an excellent partner with us for past few years! They took over support and enhancements of our Drupal publishing platform and has provided us with customized solutions for our organization to increase our engagement with our core audience."
     section: about
 
   services:
     title: "Services"
-    text: "We work with non-profits, small-to-medium businesses, universities, healthcare IT organizations, and governments."
+    text: "We work with non-profits, small business, universities, healthcare IT, and governments."
     section: services
     list:
       - title: "Marketing"
@@ -31,21 +31,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:
-      - title: "ThinkShout"
-        url: https://thinkshout.com/
-        logo: https://d33wubrfki0l68.cloudfront.net/4579e4160051dc03ac3dcc077aca939e7643d1b1/9e321/assets/images/ts_redesign/thinkshout-workmark.svg
+      - title: "Stanford University"
+        url: https://stanford.edu/
+        logo: https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/Combo-Emblem-SU.png
       - title: "Merge World"
         url: https://mergeworld.com
         logo: https://res.cloudinary.com/brightplum/image/upload/v1628859723/brightplum/merge-logo.jpg
-      - title: "maginative"
-        url: https://www.maginative.com/
-        logo: assets/img/clients/maginative.jpg
-      - title: "Advomatic"
-        url: https://www.advomatic.com
-        logo: https://www.advomatic.com/wp-content/themes/advomatic-jointswp/library/images/advo-logo.svg
-      - title: "Spry Digital"
-        url: https://sprydigital.com/
-        logo: https://d33wubrfki0l68.cloudfront.net/d7e485216be8573a2f271a30ec80fe5a8ff50b14/13132/_nuxt/img/spry-logo-horizontal.27dfa61.svg
+      - title: "Dartmouth University"
+        url: https://dartmouth.edu/
+        logo: https://communications.dartmouth.edu/sites/all/themes/dartmouth_base/images/logo@2x.png
+      - title: "BKJ Digital"
+        url: https://bkjdigital.com
+        logo: https://res.cloudinary.com/brightplum/image/upload/v1654426206/brightplum/k6hhol0rqxxl0qslquit.png
       - title: "Thinkbean"
         url: https://www.thinkbean.com/
         logo: https://www.thinkbean.com/themes/custom/thinkbean/thinkbean-logo.svg
