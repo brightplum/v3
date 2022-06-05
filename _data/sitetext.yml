@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       - title: "Marketing"
         desc: "Increase audience engagement of your digital content and products through a 'strategy first' approach."
         icon: fas fa-paper-plane      
-     - title: "Development"
+      - title: "Development"
         desc: "Customized solutions for a better return on investment with your Drupal publishing platform."
         icon: fab fa-drupal 
       - title: "Augmentation"
