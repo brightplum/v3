@@ -1,21 +1,21 @@
 en: &DEFAULT_EN
   header:
-    title: We Can Help You
-    text: Be Intentional
-    button: Find Out How
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    title: Easily increase audience engagement and sales
+    text: On your Drupal publishing platform  
+    button: Start Here
+    buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "We are experts in building Drupal web platforms"
+    text: "We work with non-profits, small-to-medium businesses, universities, healthcare IT organizations, and governments."
     section: services
     list:
-      - title: "Development"
-        desc: "Combine a great website for your customers with a cutting-edge Drupal platform to manage your business."
-        icon: fab fa-drupal 
       - title: "Marketing"
-        desc: "Improve sales of your digital products for your business or increase donations to your non-profit."
+        desc: "Increase audience engagement of your digital content and products through a 'strategy first' approach."
         icon: fas fa-paper-plane      
+     - title: "Development"
+        desc: "Customized solutions for a better return on investment with your Drupal publishing platform."
+        icon: fab fa-drupal 
       - title: "Augmentation"
         desc: "Deliver projects on-time and on-budget when we embed with your team and enhance your backend and frontend Drupal capabilities."
         icon: fas fa-users
