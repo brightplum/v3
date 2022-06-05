@@ -34,6 +34,9 @@ en: &DEFAULT_EN
       - title: "Stanford University"
         url: https://stanford.edu/
         logo: https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/Combo-Emblem-SU.png
+      - title: "Drupal Association"
+        url: https://drupal.org/association
+        logo: https://events.drupal.org/sites/default/files/drupal-association-logo-rgb_0.png
       - title: "Merge World"
         url: https://mergeworld.com
         logo: https://res.cloudinary.com/brightplum/image/upload/v1628859723/brightplum/merge-logo.jpg
