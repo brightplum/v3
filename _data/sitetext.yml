@@ -102,13 +102,11 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://www.linkedin.com/in/gustavo-ramirez-fallas/
             icon: fab fa-linkedin-in
-      - name: "Mrwan Othman"
-        role: "Project Manager"
-        image: https://res.cloudinary.com/brightplum/image/upload/v1643308398/brightplum/mrwan.png
+      - name: "Diego Pinto"
+        role: "Developer"
+        image: https://res.cloudinary.com/brightplum/image/upload/v1654425504/brightplum/1517348781583.jpg
         social:
-          - url: https://www.drupal.org/u/MrwanOthman
-            icon: fab fa-drupal
-          - url: https://www.linkedin.com/in/mrwan-othman-162901196/
+          - url: https://www.linkedin.com/in/diego-pinto-webdev
             icon: fab fa-linkedin-in 
 
   contact:
