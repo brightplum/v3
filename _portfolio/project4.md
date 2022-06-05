@@ -1,18 +1,18 @@
 ---
-title: Whitehawk
-subtitle: The White Hawk Group
+title: Stanford
+subtitle: Stanford University
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Whitehawk
-  subtitle: The White Hawk Group
+  title: Stanford
+  subtitle: Stanford University
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-The White Hawk Group asked us to create a custom Drupal 9 web platform to help their 100+ coaches manage thousands of clients for their outplacement sourcing business.
+We partnered with Stanford University on a variety of projects, including site-building for their Drupal 7 to Drupal 9 migrations, strategy discussions with various departments, and creating a custom web payment prototype for Stanford FMS.
 
 {:.list-inline}
-- Date: October 2019
-- Client: The White Hawk Group
+- Date: October 2021
+- Client: Stanford University
 - Category: Drupal
 
