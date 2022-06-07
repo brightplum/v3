@@ -19,7 +19,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Drupal Web Development Experts | Bright Plum, Inc. | Chicago, Greensboro, Costa Rica
 email      : fredric@brightplum.com #this is also the email contact forms will go to
-description: "Bright Plum, Inc. is a boutique agency specializing in web platform development using Drupal."
+description: "Bright Plum, Inc. is an agency specializing in increasing engagement for non-profits, businesses, and governments using Drupal."
 author     : Fredric Mitchell
 logo:     #optional, defaults to site title
   path: https://res.cloudinary.com/brightplum/image/upload/v1627508968/brightplum/brightplum-logo-2021.png
