@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Marketing"
-        desc: "Increase audience engagement of your digital content and products through a 'strategy first' approach."
+        desc: "Increase audience engagement through a 'strategy first' approach. [Start here](/business-marketing-checkup) for a free consultation."
         icon: fas fa-paper-plane      
       - title: "Development"
         desc: "Customized solutions for a better return on investment with your Drupal publishing platform."
