@@ -82,6 +82,18 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/jeremycaldwell
             icon: fab fa-github
+      - name: "Esteban Valerio Hernandez"
+        role: "Lead Developer"
+        image: https://res.cloudinary.com/brightplum/image/upload/v1684867777/brightplum/Esteban.jpg
+        social:
+          - url: https://www.drupal.org/u/estebanvalerioh
+            icon: fab fa-drupal
+      - name: "Jacqueline Atwood"
+        role: "Technical Project Manager"
+        image: https://res.cloudinary.com/brightplum/image/upload/v1684867710/brightplum/jackie.png
+        social:
+          - url: https://www.drupal.org/u/jaxatwood
+            icon: fab fa-drupal
       - name: "Caleb Crawley"
         role: "Developer"
         image: assets/img/team/caleb.jpg
