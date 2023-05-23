@@ -94,16 +94,18 @@ en: &DEFAULT_EN
         social:
           - url: https://www.drupal.org/u/jaxatwood
             icon: fab fa-drupal
+          - url: https://www.linkedin.com/in/jackie-atwood/
+            icon: fab fa-linkedin-in
       - name: "Caleb Crawley"
         role: "Developer"
         image: assets/img/team/caleb.jpg
         social:
           - url: https://www.drupal.org/u/crawleyhost
             icon: fab fa-drupal
-          - url: https://www.linkedin.com/in/caleb-c-b12b4886/
-            icon: fab fa-linkedin-in
           - url: https://github.com/designking06
             icon: fab fa-github
+          - url: https://www.linkedin.com/in/caleb-c-b12b4886/
+            icon: fab fa-linkedin-in
       - name: "Gustavo Ramirez Fallas"
         role: "Developer"
         image: assets/img/team/gustavo.jpg
