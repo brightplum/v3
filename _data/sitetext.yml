@@ -63,7 +63,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Fredric Mitchell"
-        role: "Architect"
+        role: "Principal"
         image: assets/img/team/fredric_headshot_2013_square_large.jpg
         social:
           - url: https://www.drupal.org/u/fmitchell
@@ -81,6 +81,16 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/jeremymcaldwell/
             icon: fab fa-linkedin-in
           - url: https://github.com/jeremycaldwell
+            icon: fab fa-github
+      - name: "Robert (Bob) Shell"
+        role: "Architect"
+        image: https://res.cloudinary.com/brightplum/image/upload/s--3cCyBg19--/q_jpegmini/v1690823797/brightplum/bob-shell.png
+        social:
+          - url: https://www.drupal.org/u/robertshell22
+            icon: fab fa-drupal
+          - url: https://linkedin.com/in/robertshell/
+            icon: fab fa-linkedin-in
+          - url: https://github.com/robertshell22
             icon: fab fa-github
       - name: "Esteban Valerio Hernandez"
         role: "Lead Developer"
