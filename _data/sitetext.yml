@@ -82,16 +82,6 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://github.com/jeremycaldwell
             icon: fab fa-github
-      - name: "Robert (Bob) Shell"
-        role: "Architect"
-        image: https://res.cloudinary.com/brightplum/image/upload/s--3cCyBg19--/q_jpegmini/v1690823797/brightplum/bob-shell.png
-        social:
-          - url: https://www.drupal.org/u/robertshell22
-            icon: fab fa-drupal
-          - url: https://linkedin.com/in/robertshell/
-            icon: fab fa-linkedin-in
-          - url: https://github.com/robertshell22
-            icon: fab fa-github
       - name: "Esteban Valerio Hernandez"
         role: "Lead Developer"
         image: https://res.cloudinary.com/brightplum/image/upload/v1684867777/brightplum/Esteban.jpg
@@ -106,15 +96,11 @@ en: &DEFAULT_EN
             icon: fab fa-drupal
           - url: https://www.linkedin.com/in/jackie-atwood/
             icon: fab fa-linkedin-in
-      - name: "Caleb Crawley"
+      - name: "Marco Alvarado"
         role: "Developer"
-        image: assets/img/team/caleb.jpg
+        image: https://res.cloudinary.com/brightplum/image/upload/v1684867852/brightplum/Marco.jpg
         social:
-          - url: https://www.drupal.org/u/crawleyhost
-            icon: fab fa-drupal
-          - url: https://github.com/designking06
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/caleb-c-b12b4886/
+          - url: https://www.linkedin.com/in/marco-antonio-alvarado-solano-857416210/
             icon: fab fa-linkedin-in
       - name: "Gustavo Ramirez Fallas"
         role: "Developer"
