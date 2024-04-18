@@ -117,7 +117,15 @@ en: &DEFAULT_EN
         image: https://res.cloudinary.com/brightplum/image/upload/v1654425504/brightplum/1517348781583.jpg
         social:
           - url: https://www.linkedin.com/in/diego-pinto-webdev
-            icon: fab fa-linkedin-in 
+            icon: fab fa-linkedin-in
+      - name: "K-Leigh Marbury"
+        role: "Junior Developer"
+        image: https://res.cloudinary.com/brightplum/image/upload/v1713452558/brightplum/k-leigh.png
+        social:
+          - url: https://www.linkedin.com/in/k-leigh-marbury
+            icon: fab fa-linkedin-in
+          - url: https://www.drupal.org/u/kleighm
+            icon: fab fa-drupal
 
   contact:
     title: "Contact Us"
